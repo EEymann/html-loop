@@ -6,7 +6,7 @@
 
 ## Description
 
-_This short program builds on my previous projects using a for loop with a random number generator function. With inner HTML and CSS we are able to dynamically print ten random numbers to the webpage. _
+_This short program builds on my previous projects using a for loop with a random number generator function. With inner HTML and CSS we are able to dynamically print ten random numbers to the webpage._
 
 ## Setup/Installation Requirements
 
